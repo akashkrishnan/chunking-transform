@@ -1,7 +1,7 @@
 {
   "name": "@simple-emotion/chunking-transform",
   "description": "Chunking Transform for Node.js Streams",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/simpleemotion/chunking-transform.git"
@@ -13,8 +13,7 @@
   },
   "homepage": "https://github.com/simpleemotion/chunking-transform",
   "main": "src/index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "engines": {
     "node": "^10.6.0"
   },
