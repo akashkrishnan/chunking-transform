@@ -1,0 +1,23 @@
+{
+  "name": "@simple-emotion/chunking-transform",
+  "description": "Chunking Transform for Node.js Streams",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpleemotion/chunking-transform.git"
+  },
+  "author": "Akash Krishnan <ak@aakay.net>",
+  "contributors": [],
+  "bugs": {
+    "url": "https://github.com/simpleemotion/chunking-transform/issues"
+  },
+  "homepage": "https://github.com/simpleemotion/chunking-transform",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "engines": {
+    "node": "^10.6.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
